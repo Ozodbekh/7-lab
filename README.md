@@ -1,3 +1,1 @@
-# 7-lab
-Second computer test
-Third test
+4 - qator
